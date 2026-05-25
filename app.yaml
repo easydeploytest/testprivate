@@ -1,0 +1,3 @@
+name: my-app        # change this — must be unique across the org, lowercase, hyphens only
+team: easy-deploy
+port: 3000
