@@ -1,3 +1,5 @@
 name: testprivate
-team: easy-deploy
+otel:
+  runtime: nodejs
 port: 3000
+team: easy-deploy
